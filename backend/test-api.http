@@ -1,0 +1,1 @@
+GET http://localhost:5000/api/bookings/67602579d0b8c9d0002a36a1/invoice

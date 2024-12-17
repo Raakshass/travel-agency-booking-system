@@ -1,0 +1,10 @@
+### Update a Package
+PUT http://localhost:5000/api/packages/6760340de326b3ccc32b1635
+Content-Type: application/json
+username: admin
+password: admin123
+
+{
+  "price": 900,
+  "description": "An updated beautiful 5-day Paris tour."
+}
